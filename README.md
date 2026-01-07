@@ -34,7 +34,7 @@ No manual deployment steps are required.
 ## Live Website
 The deployed website is available at:
 
-https://<your-username>.github.io/<repository-name>/
+https://charan-608.github.io/Ci-Cd-Pipeline-Testing/
 
 ## Outcome
 - Working CI/CD pipeline configuration
